@@ -1,4 +1,5 @@
 ![image](assets/jobie.gif)
+
 ## Steps to run this project on your local system
 
 <h3>Step 1:Fork</h3>
@@ -14,11 +15,13 @@ git clone git@github.com:<your_username>/jobie-telegram-scrapper.git
 ```bash
 git clone https://github.com/<your_username>/jobie-telegram-scrapper.git
 ```
+
 <p>Then navigate to JobIE</p>
 
 ```bash
-cd jobie-telegram-scrapper 
+cd jobie-telegram-scrapper
 ```
+
 <h3>Step 2:Branch</h3>
 To keep your development environment organized, create local branches to hold your work. These should be branched directly off of the main branch.
 
@@ -27,6 +30,7 @@ git checkout -b my-branch -t upstream/main
 git remote add upstream https://github.com/akshatnema/jobie-telegram-scrapper.git
 git fetch upstream
 ```
+
 <h3>Step 3:Build</h3>
 <p>Now we are ready to build the project , but first of all make sure that you have <b>NodeJS</b> installed in your system.<p>
     
@@ -41,6 +45,7 @@ npm install
 ```bash
 npm run dev
 ```
+
 Your site will be hosted locally at: <b>http://localhost:8000/</b>
 
 <h3>Step 6:Commit</h3>
