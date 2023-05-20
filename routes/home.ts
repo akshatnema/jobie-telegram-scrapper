@@ -1,5 +1,5 @@
 import express, { Router, Request, Response } from 'express'
-import Logger from '../config/winston'
+import Logger from '../lib/winston'
 const router: Router = express.Router()
 
 router.get('/', (req: Request, res: Response) => {
