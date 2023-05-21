@@ -1,0 +1,5 @@
+dist
+logs
+.eslintrc
+.prettierrc
+package-lock.json
