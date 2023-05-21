@@ -1,4 +1,4 @@
-![image](assets/jobie.gif)
+![image](static/jobie.gif)
 
 ## Steps to run this project on your local system
 
